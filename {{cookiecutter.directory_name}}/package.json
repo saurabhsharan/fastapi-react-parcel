@@ -1,0 +1,16 @@
+{
+  "name": "{{cookiecutter.directory_name}}",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node devserver.js"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.44",
+    "@types/react-dom": "^16.9.8",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4",
+    "parcel-proxy-server": "^1.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
